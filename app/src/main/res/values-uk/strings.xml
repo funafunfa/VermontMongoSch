@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Розклад</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="friday">п\'ятниця</string>
+    <string name="groupNameChangerButton">Змінити групу</string>
+    <string name="monday">понеділок</string>
+    <string name="saturday">субота</string>
+    <string name="thursday">четвер</string>
+    <string name="tuesday">вівторок</string>
+    <string name="wednesday">середа</string>
+</resources>

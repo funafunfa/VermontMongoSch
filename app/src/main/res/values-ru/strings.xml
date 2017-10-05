@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Расписание</string>
+    <string name="action_settings">Настройки</string>
+    <string name="friday">пятница</string>
+    <string name="groupNameChangerButton">Сменить группу</string>
+    <string name="monday">понедельник</string>
+    <string name="saturday">суббота</string>
+    <string name="thursday">четверг</string>
+    <string name="wednesday">среда</string>
+    <string name="tuesday">вторник</string>
+</resources>
